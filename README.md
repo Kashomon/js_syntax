@@ -1,4 +1,6 @@
-js_syntax
+js syntax
 =========
 
-Vim Syntax for Javascript
+Vim Syntax for Javascript.
+
+Originally, created by Spencer Tipping, by modified by myself.
